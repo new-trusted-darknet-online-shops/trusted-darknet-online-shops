@@ -110,4 +110,6 @@ Identifying *trusted darknet online shops* is a continual process of research, v
 
 Plase contribute and add stars to this repo.
 
-Update:  13 August onion link corrected
+
+
+Update:  Tuesday 19 August 2025 Link corrected
